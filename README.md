@@ -7,6 +7,6 @@
 
 - ⭐ Universidad Panamericana
 - ✏️ 4° Semestre
-- 📗 Lenguajes de Programación: Python, C#, Javascript. 
+- 📗 Lenguajes de Programación: Python, C#, Javascript
 - 🧑‍🏫 Aprendiendo y creciendo cada día
 <br>
